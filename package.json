@@ -1,0 +1,17 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "A simple to-do app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Gozie",
+  "license": "ISC",
+  "dependencies": {
+    "electron-reload": "^1.4.0",
+    "electron-store": "^4.0.0",
+    "spectre.css": "^0.5.8"
+  }
+}
